@@ -1,0 +1,1142 @@
+[
+    {
+        "students": [
+            "Baran Bursalı",
+            "Mehmetcan Gürcan"
+        ],
+        "supervisor": [
+            "Ebru Akçapınar Sezer"
+        ],
+        "project_name": "Colorization of Grayscale Paintings",
+        "abstract": "This project mainly intends to explore and achieve a wide comparison of convolutional neural network and generative adversarial networks on colorization of grayscale paintings. To achieve this, we implemented Delta-E and accuracy calculations on validation dataset after we trained paintings and used related image colorizing projects trained on their respected datasets. We concluded GAN gives better results than CNN (Resnet18 architecture).",
+        "youtube_link": "https://www.youtube.com/watch?v=rXCqlXZ3YJE",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 0,
+            "keywords": ["GAN", "CNN", "Artificial Intelligence", "AI"]
+
+    },
+    {
+        "students": [
+            "Furkan Gürel",
+            "Mahmut Fatih Erbağ",
+            "Seda Oran"
+        ],
+        "supervisor": [
+            "Nazlı İkizler Cinbiş"
+        ],
+        "project_name": "Emotion and Pain Recognition",
+        "abstract": "Emotion and pain analysis was the main objective of the project. This study was made considering that it can be used in hospitals or health centers. Different datasets for emotion and pain have been studied. This analysis was performed using more than one frame, not one frame. These studies were made by using 3D-CNN I3D and CNN architectures. Unlike previous studies, we did not foresee a single frame to continue to find the degree of pain and emotion. Instead, we focused on the overall video and focused on assigning a label from multiple frames. We think that the 3D-CNN and I3D architectures we use will provide better results than the traditional CNN architecture.",
+        "youtube_link": "https://www.youtube.com/watch?v=AZcoztKvHB4",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 1,
+    "keywords": ["I3D architectures", "3DCNN", "Artificial Intelligence", "Emotion and pain analysis"]
+
+    },
+    {
+        "students": [
+            "Emre ÖZOĞLU",
+            "Yunus Melih GÖZÜTOK"
+        ],
+        "supervisor": [
+            "MURAT AYDOS"
+        ],
+        "project_name": "scr2seg: A web page segmentation scheme using deep learning methods.",
+        "abstract": "Analyzing the contents of a webpage is insufficient with using source as HTML or other methods like (k-means clustering , edge detection , thresholding ) . So here we approached this problem in pixel wise using a deep learning method which is called image segmentation.",
+        "youtube_link": "https://youtu.be/WrZPlrUWBa4",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 2,
+            "keywords": ["I3D architectures", "3DCNN", "Artificial Intelligence", "Emotion and pain analysis"]
+
+    },
+    {
+        "students": [
+            "Baturalp Furkan Karamus",
+            "Emre Coşkunçay"
+        ],
+        "supervisor": [
+            "Kayhan İmre"
+        ],
+        "project_name": "EyeDriveSafely",
+        "abstract": "Designing software and module to enhance the road driving experience of car drivers with camera and eye tracker support. Deep learning and image processing along with object tracking, object recognition and video synthesis. With this software, the driver's detection of the detected objects will be measured and healthy information will be collected in this way, the driver's driving experience and driving safety will be detected and recorded by the software. This project will be implemented both for corporate companies and for personal use.",
+        "youtube_link": "https://www.youtube.com/watch?v=x53r4Z99xj0",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 3,
+            "keywords": ["Deep Learning", "Tracking", "Object recognition", "Artificial Intelligence", "Video synthesis" ]
+
+    },
+    {
+        "students": [
+            "Ahmet Faruk BAYRAK",
+            "Erim GÜR"
+        ],
+        "supervisor": [
+            "Pınar DUYGULU ŞAHİN"
+        ],
+        "project_name": "Analysis of Social Media for Tourism Data Mining",
+        "abstract": "The current tourism sector in Turkey, has a lack of to offer more specific vacation packages, tours or places which is affected by the role of social media that has a major influence on decision making of people where to go on holiday or explore which holiday places. The focus of this paper is to do data processing to convert the dataset to the desired shape by applying data cleansing, creating support vectors of tweets, creating similarity matrices then, evaluate clustering algorithms on this real Twitter data. After that, evaluating our results and trying to increase the accuracy as possible as. It would be useful to state here. The project consisted of two phases and the second phase will be carried out in the future. In order to perform the second stage of the project, we aim to make sentimental analysis and at the end we will have a model of which catches trends on social media and help to make decision making on marketing strategy, offering holiday packages etc. correctly for the enterprises.",
+        "youtube_link": "https://youtu.be/B-eIAc3VjFY",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 4,
+            "keywords": ["Deep Learning", "Social Media Analysis"]
+
+    },
+    {
+        "students": [
+            "Burcu ÖZTAŞ"
+        ],
+        "supervisor": [
+            "Adnan ÖZSOY"
+        ],
+        "project_name": "Post-Earthquake Communication",
+        "abstract": "The aim of this project is to provide a solution by means of the measures that can be taken in the recent earthquake disaster and engineering analytics for these measures. Nowadays, mobile devices are very popular, I have developed an application that is easily accessible, which has the nature of emergency assistance. This application provides solutions to the failure of GSM companies to provide services at the moment of the earthquake. As a result of deep research and investigation, the rationale of GPS technology has been integrated with bluetooth technology which aims to connect offline and GPS offline location service.",
+        "youtube_link": "https://youtu.be/A6sK6C8rjJY",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 5,
+        "keywords": ["Earthquake", "GSM", "GPS", "Bluetooth" ]
+
+    },
+    {
+        "students": [
+            "Ezgi Naz GÜNGÖR",
+            "Ahmet Burak KAHRAMAN",
+            "Fatma Nisa HOPCU"
+        ],
+        "supervisor": [
+            "Tunca DOĞAN"
+        ],
+        "project_name": "Drug Sensitivity Predict on for Cancer Cell-lines with Pairwise Input Graph Convolutional Neural Networks",
+        "abstract": "Drug development is an expensive and time-consuming process where thousands of chemical compounds are being tested and experiments are being conducted in order to find out drugs that are safe and eﬀective. We plan to use a new approach is proposed to tackle this problem by modelling the cancer cell-lines in large scale using genomic and transcriptional features, together with drugs and constructing a pairwise convolutional neural network architecture that accepts the features of both drugs and cell-lines at the input level and predicts the activity of the drug. Initially, we created our drug dataset using ChEMBL is a chemical database of bioactive molecules with drug-like properties. In this part of the project, a single cancer cell-line has most data points is chosen and Convolutional Neural Network Classification and Support Vector Machine Regression is implemented to predict IC50 values using this cancer cell-line and all compounds in our drug database. We plan to implement Convolutional Neural Network Regression for all cancer cell-lines, Graph Convolutional Neural Network Regression for all compounds and a Fully Connected Neural Network takes these two structıre as inputs. Therefore, we will construct a pairwise input graph convolutional deep neural network architecture that accepts the features of both drugs and cell-lines at the input level and predicts the activity of the drug (in terms of the lethal dose that kills the input cancer cell-line in real numbers).",
+        "youtube_link": "https://www.youtube.com/watch?v=4ESHqFqhIHI",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 6,
+               "keywords": ["GCNN", "Drug", "CNN", "Chemical" ]
+
+    },
+    {
+        "students": [
+            "Furkan YILMAZ",
+            "Emre TUNÇ",
+            "Habil GANBARLI"
+        ],
+        "supervisor": [
+            "Pınar DUYGULU ŞAHİN"
+        ],
+        "project_name": "Logo Detector",
+        "abstract": "In our project, Faster R-Cnn, which is a method based on convolutional neural networks, will be used to detect logo on instagram photos. The dataset used in this project is FlickrLogos-32. It is planned to test the logo detection on the instagram photos after the training phase is completed. However, it is estimated that logo detection will be more difficult as the logos on instagram photos can be relatively small or blur.",
+        "youtube_link": "https://www.youtube.com/watch?v=e-Vu3UgA0zc",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 7,
+        "keywords": ["Faster R-CNN", "Deep Learning","CNN", "Logo Detection", "Artificial Intelligence"]
+
+
+    },
+    {
+        "students": [
+            "Anıl AYDINGÜN",
+            "Denizcan BAĞDATLIOĞLU",
+            "Burak CANBAZ"
+        ],
+        "supervisor": [
+            "Burcu CAN"
+        ],
+        "project_name": "AI Music Composer",
+        "abstract": "In today's world and technology, music is one of the first methods used as an activity in which people can comfort themselves to a certain extent in the intense pace of life. Most of the time people adopt the music they listen by finding pieces about their own lives in musics. However, music is produced as a result of works that require a great workload in the artistic sense. Good music education, talent, inspiration to express themselves in note language are essential factors. All these things sometimes need more time than necessary.After many concrete works, the concept of creativity is more important for people in this period than before. For this reason, the originality of music works gradually decreases. With the project we have developed, we have minimized the necessity of time and inspiration concepts and brought music to the computer environment that has an indispensable place in our lives with the developing technology. We aimed to reduce the workload of people who want to take a close interest in music, to use their time effectively, to integrate the originality factor into the neural network to create a new music production whenever they wish. And also we tried to produce harmonic music with minimum effort by using note values and other features of the note with deep learning algorithm.",
+        "youtube_link": "https://www.youtube.com/watch?v=nNa4t_rwz1c&t=2s",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 8,
+        "keywords": ["Music", "Deep Learning","CNN", "Artificial Intelligence"]
+
+    },
+    {
+        "project_name": "Gallery Assistant –An Experiment on Zero-Shot Sketch-based Image Retrieval",
+        "students": [
+            "Ayça Meriç Çelik",
+            "Nur Bengisu Çam"
+        ],
+        "supervisor": [
+            "Nazlı İkizler-Cinbiş"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=CnYBpF-K61k",
+        "abstract": "Image retrieval is one of the most promising and popular topics in computer vision. There are different approaches, such as text-based and content-based retrieval methods. One of the most challenging methods is sketch-based image retrieval. One of the biggest challenges is the geometric distortions, meaning that the hand-crafted sketches and images are very different from each other. Another difficulty is since it is zero-shot learning, we need strong semantic representations of classes. These definitions might not be descriptive about the visual features of the train sketch-image pair classes. In this project, we have investigated the SEM-PCYC model and tried to improve the prediction results of the model using different components, especially semantic ones.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 9,
+        "keywords": ["Gallery Assistant", "Deep Learning","CNN", "Artificial Intelligence", "Image Retrieval"]
+
+
+    },
+    {
+        "project_name": "Protein Disordered Region Prediction via Sub-sequence based Modelling",
+        "students": [
+            "Derya Ersoy"
+        ],
+        "supervisor": [
+            "Tunca DOĞAN"
+        ],
+        "youtube_link": "https://youtu.be/TnXKA0QP_ks",
+        "abstract": "Proteins are the work-horses of the cell, which carry out all molecular activities during the life-time of an organism. Each protein have a unique three-dimensional structure, a definite complex shape they take in the space that determine its biological activity. Identifying the structural properties of proteins is crucial to understand their functional properties in health and disease conditions, and to develop new treatment options. Parts of the protein structures, which have radically different properties such as lacking stable definite shapes, are called disordered regions (as opposed to the major, stable and definite 'ordered regions'). These parts are hypothesized to be crucial for functionality changes in proteins and for disease formation. As a result, determining disordered regions on proteins is an important task. Experimental identification of disordered regions is a difficult and expensive process, thus, automated approaches that incorporate data mining and artificial learning techniques are being used. The main aim of this project is to predict the disordered regions of proteins using the amino acid sequences, the building block of proteins, as input; and previously known ordered and disordered region information, that was produced by reliable experimental approaches, as the labels. For this, a supervised binary classifier was constructed using random forest algorithm and trained with both ordered and disordered region annotations of 723 different proteins. Since each protein has both ordered and disordered regions, we took a k-mer based approach and extract sub-sequences of 5 amino acids with sliding window. Each 5-mer then converted into a numerical feature vector of 645 dimensions based on the physicochemical properties of the amino acids in the respective 5-mer. We also labelled these 5-mers based on the known ordered/disordered region annotation of the whole protein sequences. After that, we fed the feature vectors to the random forest classifier to train and to validate our model. Using 10-fold cross validation, we optimized our hyper-parameters (using grid-search) and measured the performance of the finalized model. The future work in this project will be merging the independent ordered/disordered region predictions of different 5-mers into full proteins and to annotate the full proteins with majority or weighted voting. Afterwards, we plan to compare the performance of our model with other methods from the literature, using benchmark datasets with pre-defined train/test splits. We expect that our method will perform better or at least statistically similar to the state of the art in the field of protein disordered region prediction.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 10,
+        "keywords": ["Bioinformatic", "Deep Learning","Proteins", "Artificial Intelligence", "Machine Learning"]
+
+    },
+    {
+        "project_name": "Tissue Segmentation with GANs, Early Phase: Multi-Domain Image to Image Translation",
+        "students": [
+            "Merve Gül Kantarcı",
+            "Mürüvet Gökçen",
+            "İlkin Sevgi İşler"
+        ],
+        "supervisor": [
+            "Nazlı İKİZLER CİNBİŞ"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=RHfkjodXDw4",
+        "abstract": "Magnetic Resonance Imaging (MRI) is a unique tool that creates cross-sectional pictures of internal organs and structures using radio waves and magnets. MRI imaging allows doctors a detailed view into the interior of the patient body and has become an essential tool of modern medical imaging and disease diagnosis. MRI provides important diagnostic information to doctors that cannot be observed with other medical practices. There are 3 types of MRI scans that doctors use to diagnosis of diseases. Although MRI has many advantages, it takes really much time and effort to take all three of MRI scans from patients. While some patients cannot withstand just one MRI scan, taking 3 MRI images is a major problem for healthcare professionals and waste of time in terms of their workload. In addition, while some cases requires 3 scans of MRI, others requires just one scan, since there is an ambiguity that the doctors can not make a decision before, taking just one MRI scan and translating it to other 2 types of MRI scans will provide great convenience to both doctors and researchers. We propose a solution to above mentioned problem by generating different combinations of images from only 1 or 2 MRIs (getting 3rd one from 1st and 2nd one, getting 2nd and 3rd one from the 1st one, etc.). To implement this, we’re harnessing the power of GANs. We investigated 2 types of GAN (CycleGAN and StarGAN) and compared their results in terms of their applicability and convenience to our problem.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 11,
+        "keywords": ["GAN", "Deep Learning","Image Translition", "Artificial Intelligence", "MRI", "Health","CycleGAN"]
+
+    },
+    {
+        "project_name": "Recognition of Ingredients and Tools in Cooking Videos",
+        "students": [
+            "Fatmanur Turhan",
+            "Meltem Tokgöz"
+        ],
+        "supervisor": [
+            "Pınar Duygulu Şahin"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=DX15axTFUwk&rel=0",
+        "abstract": "With the development of technology and the spread of social media, many photo and video sharing platforms are being used extensively today. Because users share photos and videos from all areas of daily life on these platforms, the data obtained is increasing day by day and at the same time processing this data gained importance. Today, analysing the obtained data and making meaningful results are the business fields of many companies. In this process, studies to improve image processing techniques and to obtain more accurate results are increasing. Within the scope of our project, we focused on the object detection problem using the Epic Kitchens dataset, which consists of videos containing daily kitchen activities and objects. EPIC- KITCHENS is the largest video data set that uses existing wearable cameras to automatically understand object interactions in everyday life. The complexity and size of the data set have forced us to work with various object detection algorithms. In our project, we tried to determine how various object detection algorithms work, what is going on in the background and the strengths and weaknesses of the algorithms. At the same time, we aimed to increase our accuracy in object detection.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 12,
+        "keywords": ["Object Recognition", "Deep Learning","Cooking", "Object Detection","AI"]
+
+    },
+    {
+        "project_name": "Converting Recipe Videos to Text : Action Recognition",
+        "students": [
+            "Sevda SAYAN",
+            "Furkan Çağlar GÜLMEZ"
+        ],
+        "supervisor": [
+            "PINAR DUYGULU ŞAHİN"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=aJVoNHl2-Kk&ab_channel=SevdaSayan",
+        "abstract": "In this paper, we introduce Converting Recipe to Text System that recognizes action and detects object in kitchen. Purpose of this work is to find verbs, nouns and finally predict actions for each video segment. We use Epic Kitchens dataset that contains 32 different kitchens, 11,5M frames, 39594 actions segments, 454255 object bounding boxes, 125 verb classes, 331 noun classes. To solve this problem we took an advantage of object detection features and 3D Convolutional Neural Networks (CNN). These methods enhanced accuracy of noun and verb prediction. Our target is to recognize verb, noun pairs to detect action using Temporal Segment Network, Temporal Relational Network, Multiscale Temporal Relational Network. First plan is to pick the model which is the most successful to use it in the rest of the progress. After that extracting feature with I3D, compare them with picked model, find accuracy weights according to actions and merge all of them with object detection results.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 13,
+        "keywords": ["Action Recognition", "Deep Learning", "Video to Text","AI","Recipe Videos"]
+
+    },
+    {
+        "project_name": "QR Code Scanner Android Application",
+        "students": [
+            "Natig Gahramanov"
+        ],
+        "supervisor": [
+            "Harun ARTUNER"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=KlB9bsSvjus",
+        "abstract": "QR code is the trademark for a type of matrix bar code first designed for the automotive industry. Today the QR code is widely used in all industries. In my report I represent an implementation of an Android device using libraries is and combined algorithms in order to be able to scan any QR code fast accurate and easy. The devices that I targeted for my application is an Android operated phone. The implementation for each of the devices is slight different, but the core algorithms and libraries are the same.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 14,
+        "keywords": ["QR Code Scanning"]
+
+    },
+    {
+        "project_name": "Recognition of Actions",
+        "students": [
+            "Buğra Fırat Çıtak",
+            "Ömer Faruk Yaşar",
+            "Yahya Koçak"
+        ],
+        "supervisor": [
+            "Pınar Duygulu Şahin"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=59wJBKIZDf8",
+        "abstract": "Deep convolutional networks have achieved great success recognition for images. But for action recognition in videos it is not valid.In our work we want to discover methodologies used for action recognition and use them in challenges with small modifications.We worked on action recognition problem with using Epic Kitchens dataset which provides 39,594 annotated action segments and some pre-trained models with different methods for action recognition.Data set consists 32 different kitchens with first person vision.There are 125 verb,331 noun classes.Challenge is predict correct verb and noun classes for action segments. In our project we try to provide a solution for this challenge. As a beginning of the project we investigate some state-of-art action recognition methods such as Temporal Relational Reasoning in Videos(TRN), Temporal Segment Networks: Towards Good Practices for Deep Action Recognition (TSN). We use these methods to measure their performance at action recognition challenge and try to get improvement with verb-noun occurrence , semantic following between verbs and nouns etc.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 15,
+        "keywords": ["Action Recognition","Deep Learning", "AI"]
+
+    },
+    {
+        "project_name": "Disease Centric Targeted De Novo Design of Realistic Drug Molecules with Graph Based Generative Adversarial Networks",
+        "students": [
+            "Huzeyfe Kocabas",
+            "Tugay Calyan"
+        ],
+        "supervisor": [
+            "Tunca DOGAN"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=orbyP_eax5o",
+        "abstract": "Discovering new small molecules that interacts with only the intended biomolecules (proteins) in the cell is a critical task in the field of drug discovery and development. One common problem here (even for the marketed drugs) is the promiscuity, where the molecule interacts with many different targets (including the intended target) and cause serious side effects, when used as a drug. In theory, it is possible to discover new specific/targeted molecules; however, the number of possible small molecules that can exist in the physical universe is huge (i.e., 10^60). This severely limits the ability of scanning the available chemical space to discover new drugs, even with efficient and fast computational approaches. One solution to the problem is the de novo generation of drug candidate molecules computationally, based on certain characteristics. In this project, we propose in silico generation of realistic drug candidates (in the sense that they can be synthesized from its constituent atoms/molecules and can physically exist in a stable form) that are directed to target only certain proteins, which are selected from predefined protein-disease association sets. This way, new drug candidates will be designed towards treating a specific disease. Another expected benefit will be the prevention of serious drug side effects. A complex architecture including generative adversarial networks (GAN) and convolutional neural networks (CNN) will be used for this purpose, where the set of generator- discriminator (GAN) will try to find realistic molecules, and the supervised predictor (CNN) that is plugged at the end of the GAN will predict the interaction of newly generated molecules only against the intended target proteins in a multi-label classification approach.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 16,
+        "keywords": ["Health","Deep Learning", "AI", "GAN", "Bioinformatic","Drug","CNN"]
+
+    },
+    {
+        "project_name": "UniZone Mobile Application",
+        "students": [
+            "İsmet Seyhan",
+            "Arslan Çakıray",
+            "Tolga Furkan Güler"
+        ],
+        "supervisor": [
+            "Sevil ŞEN"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=JI9WSdq_NHU&feature=youtu.be",
+        "abstract": "It is a mobile application that brings together university students who want to socialize around common points, enabling students to spend their campus life more efficiently and while saving them money and time. It provides students the opportunity to be aware of all school-related activities and meet new people. The application is written in java software language. Java is the technology of choice for building applications using managed code that can execute on mobile devices. We used firebase Cloud Firestore infrastructure as database. In addition, the promotion website was made using the wordpress platform.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 17,
+        "keywords": ["Mobile Application","Socializing"]
+
+    },
+    {
+        "project_name": "Link Prediction",
+        "students": [
+            "Javid Rajabov",
+            "Akif Sönmez"
+        ],
+        "supervisor": [
+            "Lale Özkahya"
+        ],
+        "youtube_link": "https://youtu.be/oqgg9eoQcXU",
+        "abstract": "In this project, we investigated the main process of ecommerce websites, that is recommending products to customers. Our main approach to recommendation systems was link prediction. In detail, by analysing products data, find links between them, which means they will be co-purchased together.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 18,
+                "keywords": ["Recommendation Systems","E-commerce","Link prediction", "AI"]
+
+    },
+    {
+        "project_name": "AIPark",
+        "students": [
+            "Anıl Helvacı",
+            "Cihat Duman"
+        ],
+        "supervisor": [
+            "Adnan Özsoy"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=564RWY24DTA",
+        "abstract": "Not being able to find a suitable parking spot in the streets is a deal breaker when we wish to go to a social event. Since valets are not that “trustworthy”. Or when we have to go through a certain street but because of the traffic caused by people who are searching for parking spots our time gets wasted as well as all the other people in that street. The Parking Spot Detector cannot solve the traffic problem but can give the user a very good idea about whether he/she should search for a parking spot. Basically we have cameras with a clear view that watch the streets and keeps track of the parking spots per minute. When a client asks for parking information about a certain street we return the number of empty spots in that moment and the possibility of finding an empty parking spot when they arrive the intended street using normal distribution and standard deviation to the client. With that information client makes his/her decision. The client communicates with the system through a mobile application.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 19,
+        "keywords": ["Smart Cities","Image Processing","Mobile Application", "Cameras"]
+
+    },
+    {
+        "project_name": "AR Lab",
+        "students": [
+            "Hüseyincan Kaynak",
+            "Kaan Mersin",
+            "Ahmet Tarık Kaya"
+        ],
+        "supervisor": [
+            "Ufuk Çelikcan"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=xSHAvruGWXA&t=14s",
+        "abstract": "In high school, experiments in physics and chemistry at the laboratory have been a little bit complex. Even if you are studying in the public schools almost you never make an experiment. This has several reasons like experimental equipment are expensive and schools can’t buy a new one if something is broken, or single-use items also expensive so the school can’t buy it either. Based on this we developed a mobile application that students can make an experiment in the laboratory as she/he wants. Moreover, students can make the experiment at home to learn topics better. All need is a phone and our application. We used the ARKit plugin which is developed by Apple. We used this plugin mostly for detecting the surface. Also, we are developing this project in Unity. We are making scenes for every experiment and keeping user data for level mode. Users can continue where is left. In level mode users only can mov",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 20,
+        "keywords": ["Mobile Application","High School Students","Virtual Lab", "ARKit plugin"]
+
+    },
+    {
+        "project_name": "FOCUS Data Platform for Clinical Studies",
+        "students": [
+            "Aslıhan ÖZÇELİK",
+            "Yavuz Kağan AKYOL",
+            "Metin DEMİR"
+        ],
+        "supervisor": [
+            "Fuat AKAL"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=jxgkmR0Lqx0&rel=0",
+        "abstract": "In this project, we introduce ‘FOCUS’ as web application that hosts many necessary features that clinicians will use. Clinicians can register to the 'FOCUS' and create projects. They can invite other clinicians and collect data about own project.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 21,
+        "keywords": ["Clinical Studies","Web Applications"]
+
+    },
+    {
+        "project_name": "PROSTHETIC BIONIC HAND",
+        "students": [
+            "Şeyma YILMAZ",
+            "Mücahit FINDIK",
+            "Mohamed Sadek BABA"
+        ],
+        "supervisor": [
+            "Mehmet KÖSEOĞLU"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=4PtR5j82zn0",
+        "abstract": "Our hands are an important part of our body. Without them, it's hard for us to do most things, maybe even impossible. In this project, infrastructure is created to make the life of handicapped handless people easier. The aim of the project is to transmit similar movements to the robot hand by observing the signals generated by the muscle movements in the arms. Muscle contraction in the human body results in a bioelectric signal proportional to muscle activity. The electromyogram (EMG) muscle sensor is used to pick up the signal. An EMG measures the electrical activity of muscles at rest and during contraction, depending on the amount of activity in the muscle. As a result, it shows the filtered and rectified electrical activity of a muscle to the user. To put it simply, 3 electrodes in the sensor are placed on the arm of the user. One of these electrodes is located at the reference point, the other is at the center of the observed muscle and the other is at the end of the observed muscle. Thus, it detects voltage differences in muscle contractions, when a movement occurs in the muscles. The difference generated by the sensor is analyzed and motion is determined. The determined motion is shown in the generated robotic hand.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 22,
+        "keywords": ["Infrastructure","Health","Muscle contraction","EMG"]
+
+    },
+    {
+        "project_name": "A Virtual Try-on System for Fashion Outfits",
+        "students": [
+            "Aybüke Yalçıner",
+            "Bahar Bender",
+            "Furkan Kaya"
+        ],
+        "supervisor": [
+            "Aykut Erdem",
+            "Erkut Erdem"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=0APmPvdKe7w",
+        "abstract": "Online shopping makes our lives easier so it has an important role in our lives. ​ But sometimes when we get ourselves a new outfit from the internet, it doesn't look as good as it does on a model in the image. With our system, users will be able to see how the clothes on the model stand on their own. Our goal is ​ developing a virtual trial system that can fit new clothes into one person on different poses. For the product solution, state-of-the-art techniques will be used such as generative adversarial networks (GANs). By using these techniques, the data of the person who wants to try on the clothes will be utilized and the state of the person with the desired clothes and pose will be produced by the generative adversarial networks.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 23,
+        "keywords": ["GAN","Fashion Outfits","Deep Learning","AI","Virtual Try-on"]
+
+    },
+    {
+        "project_name": "Q2C Mapping Questions to Courses",
+        "students": [
+            "Atakan Erdoğdu",
+            "Baran Ekin Özdemir",
+            "Zekeriya Onur Yakışkan"
+        ],
+        "supervisor": [
+            "Gönenç Ercan"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=XLg3MiqFFnE",
+        "abstract": "Information is the most important need of our era and everyone want to reach the right information quickly. High demands for information also made significant rise in the amount of created content and shared information. This made the today’s internet a noisy place with huge amount of materials and information travelling through the world at gigantic rates, making it difficult to find relevant information easily. This problem left many people seeking answers, trying to find valuable information on what they are looking for. This made question-answer platforms such as StackOverflow widely popular. There are also lots of online courses that may improve people on their subject of interest. Udemy offers more than 130 thousand courses. Our aim is to develop software several techniques to recommend Udemy courses related to questions asked on those kinds of platforms. This will allow people to gain in-depth knowledge related to their questions. On the other side, this will allow Udemy’s content creators to reach their target audience more precisely.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 24,
+        "keywords": ["Recommendation Systems","Deep Learning","AI","Udemy Course"]
+
+    },
+    {
+        "project_name": "FactX",
+        "students": [
+            "Asma AIOUEZ",
+            "Habiba Nasir MOHAMMED"
+        ],
+        "supervisor": [
+            "Gönenç ERCAN"
+        ],
+        "youtube_link": "https://youtu.be/oDJ64S4ml4U",
+        "abstract": "In this age, we rely on information in order to achieve anything. With an outrageous rise in the amount of unreliable and fake information in circulation especially from internet sources,​ ​ a fact check has become an imperative and effective tool for correcting such misinformation, although t​ he task of manually validating each fact is significantly time-consuming and previously relied on numerical confidence scores which might not be easily interpreted. In a bid to provide a means of correcting unreliable information, we introduce FactX, a fact checking tool, that aims to model a more simplified representation of similar fact-checking tools. In every aspect of data collection, it is of utmost importance to ascertain the credibility and accuracy of the facts obtained especially from online sources. FactX is built to make the task of generating better comprehensible facts relatively easy and reliable.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 25,
+        "keywords": ["Fact Detection","fact checking tool"]
+
+    },
+    {
+        "project_name": "Visual Inspection of Composite Structures with Mobile Application",
+        "students": [
+            "Elif AÇIKGÖZ",
+            "Ata Mert ADA",
+            "Osman KÖYMEN"
+        ],
+        "supervisor": [
+            "Harun ARTUNER"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=GGF5gXLXZGc",
+        "abstract": "The problem being addressed is exactly the problem of direction encountered during the integration of composite material used in the exterior coating of military vehicles. Designing an application for determining the angle and direction of the real time by using image processing method as a solution.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 26,
+        "keywords": ["Mobile Application","Visual Inspection of Composite Structures"]
+
+    },
+    {
+        "project_name": "Android Secure Email Client",
+        "students": [
+            "Mehmet Fatih DEMİR",
+            "Sadık Adem EKİCİ",
+            "Muhammed Enes KOÇAK"
+        ],
+        "supervisor": [
+            "Engin DEMİR"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=weGRHK7llfY",
+        "abstract": "Nowadays, as digital transformation and green conservation activities gain importance, it has become ​ common to transfer all document document sharing and communication activities electronically. The biggest problem with this transformation is the security of these data. E-mail is the most common system used by companies in electronic communication. Ensuring the security of emails where important information is shared has become a necessity for companies, and using manpower to control them is a costly and unsafe option. Instead, through the application we have developed, we were ensure that document sharing over company mails can be accessed from a single application and can't transferred to other environments or people without authorization. In our project, we were develop the Secure Mail application for companies by checking access to mail and protecting the content.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 27,
+        "keywords": ["E-mail","Secure Mail application","Application","Data Security"]
+
+    },
+    {
+        "project_name": "H-Travel",
+        "students": [
+            "Merve Müge Deliktaş",
+            "Umut Piri"
+        ],
+        "supervisor": [
+            "Adnan Özsoy"
+        ],
+        "youtube_link": "https://youtu.be/wR7mL_kHQvI",
+        "abstract": "We have developed a mobile application/game for Android and iOS that encourages people to travel the world to collect cards. The application is a mix of a game and a social media platform. The users can gain rewards -as card points- through travelling around the world and taking pictures of touristic sites, as well as playing the game. The game is a combination between traditional rock, paper scissors game and tic-tac-toe which introduces a unique value to it. The app also provides landmark validation to the taken picture to eliminate irrelevant data utilizing landmark detection and blockchain consensus. The app also provides a trip log feature, where you can see the places you visited before and keep those pictures as souvenirs. With this project, people will be willing to travel and take photos of famous places in this way gain some game cards to join the card battle. If a player wins a battle against another player, winner will earn coins. If the user has trouble proving his photo belongs to a famous place, the consensus established with blockchain technology will come into play.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 28,
+        "keywords": ["Mobile Game", "Mobile Application", "Blockchain"]
+
+    },
+    {
+        "project_name": "A Blockchain-Based Economy System for Games",
+        "students": [
+            "Hasan Akalp",
+            "Onur Cankur"
+        ],
+        "supervisor": [
+            "Adnan Özsoy"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=_YCfdosuwJM",
+        "abstract": "In recent years, true ownership of in-game assets has become one of the most important subjects in the game industry. Most of the well-known companies are currently providing ownership of assets by using their own centralized servers. Since ownership information is stored on the central databases of these companies, the information can be changed or corrupted by the company or by external attacks of hackers and gamers have no choices except trusting the companies and their security mechanisms. For these reasons, it is important to provide an ownership to gamers without depending on any other central authority. To solve this problem, we developed a blockchain-based economy system by improving state-of-art projects.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 29,
+        "keywords": ["Data Security", "Blockchain"]
+
+    },
+    {
+        "project_name": "Gesture Controlled Graphical User Interface",
+        "students": [
+            "Buğra Tuncer",
+            "Süleyman Gürsoy",
+            "Aysel Boz"
+        ],
+        "supervisor": [
+            "Ahmet Burak Can"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=IFniIEva_Sg&t=",
+        "abstract": "Gesture recognition and its application in human-computer relationships have been growing increasingly popular in recent years. Although so many gestures can be recognized from a single frame, building more responsive and accurate system can recognize complex gestures. Complex gestures and teaching these to the computer establish a bridge between computer and human relations. In this project, we used deep learning techniques and neural networks for this learning process. For the dataset, we used 20BN-Jester Dataset [2]. Dataset size is one of the most important part to get the best results in deep learning. We trained the dataset with a simple 3D convolutional neural network. After that, we can be able to use the real time gesture recognition. The final program, which was able to successfully define gestures in real time, turned them into various computer commands and enabling it to provide the opportunity to use computers. This type of usage will not require any devices such as keyboards or mouse. The only requirements are the laptop camera or a webcam. So, the end-users of the application could use the computer remotely. This documentation includes, explanation of the used techniques, issues that occurs during the development and information about the important processes.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 30,
+        "keywords": ["3DCNN", "Deep Learning", "AI", "Hand Recognition"]
+
+    },
+    {
+        "project_name": "Donation Platform",
+        "students": [
+            "Ömer GÖRGÜLÜ",
+            "Şafak APLAY",
+            "Mert İlgün KUŞAKÇI"
+        ],
+        "supervisor": [
+            "Süleyman TOSUN"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?reload=9&v=P-HeB2-ctvU&feature=youtu.be",
+        "abstract": "In general, the issues that are discussed in this project is about solidarity and sharing behavior of people living in Turkey. From past to present, there has always been a cooperative behavior among people, as it is also regarded as a compulsory cultural behavior in some cases. We always want to know whether the aid is actually reaching the needy. Sometimes we find that these aids are abused by malicious people and do not reach their goals. In the light of the advancement of technology and scientific developments, we may want to solve such problems. That practice, technology and culture of Turkey is already adapted to each other. With this app there is a link between people in need and other people who will help them. Thanks to this bond, a match is made between the people who receive help and the people who help. In this mapping, it is optionally possible to hide the identity of the parties.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 31,
+        "keywords": ["Social Project", "Secure Donation Platform"]
+
+    },
+    {
+        "project_name": "Air Quality Controller",
+        "students": [
+            "İlteriş YÜCEL",
+            "Sabit ÇATALTAŞ"
+        ],
+        "supervisor": [
+            "Mehmet KÖSEOĞLU"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=Bn2EvrAzXTM",
+        "abstract": "Air temperature, humidity and harmful gases that may accumulate in the work areas may adversely affect the health of the employees and cause accidents and explosions. In order to solve these problems, we focused on developing a small and modular system that controls air quality and detects harmful gases accumulated in the air. The air control module we developed makes the necessary measurements and broadcasts them via bluetooth. We have also developed a mobile application that will display these measurements to users via bluetooth. In addition to showing the required values for air, this application notifies users when air quality is reduced or harmful gases accumulate in the air.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 32,
+                "keywords": ["Air Quality", "Application"]
+
+    },
+    {
+        "project_name": "A Robot Singer",
+        "students": [
+            "Muhammed Furkan Yavuz",
+            "Abdullah Kökbıyık"
+        ],
+        "supervisor": [
+            "Burcu CAN"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=DJb-pNqD_rY",
+        "abstract": "Nowadays, deep learning is one of the most interesting topics. The combination of deep learning and music, which increases its effectiveness almost everywhere, is an interesting subject. We can achieve consistent lyrics using a well-trained model. This requires a good data set. As with lyrics, we can produce good notes from a well-trained model. Their synthesis can produce beautiful songs. This is how we can think of deep learning and music together. In this project, it is aimed to produce songs synthesized by the combination of notes formed by one model and lyrics created by another model. For this, firstly, notes should be obtained from the model. Once we get the notes, we have to get the lyrics. We must combine the words and notes we have into files called 'abc'. 'abc' files hold a number of parameters as the header. Parameters such as rhythm, syllable length, composer are kept in header. A sequence of notes follows. Just below these notes added for a string, words spelled with the tag 'w' are added. Spelling of words is important in terms of matching notes and words. This allows rhythm reading of the song. After the 'abc' file is created, it is switched to the vocalization of the song. The 'abc' file is first converted to the 'MIDI' file format, then the 'wav' file format and the synthesized song appears. This translation was done with a library called 'eCantorix'. eCantorix is ​ a song vocalization library that uses the 'eSpeak' library. A web interface has been developed for use. The created web interface can be accessed at 'http://3.231.61.200'. Also using this web interface, an Android application has also been developed.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 33,
+        "keywords": ["Android Application", "Web Application", "Deep Learning", "AI", "Music", "Lyrics", "Notes"]
+    },
+    {
+        "project_name": "Requirement Matching System",
+        "students": [
+            "Elif Eryürek",
+            "Girayhan Yıldırım",
+            "Sercan Özçakır"
+        ],
+        "supervisor": [
+            "Burkay Genç"
+        ],
+        "youtube_link": "https://youtu.be/81cQcPoFXZw",
+        "abstract": "The problem addressed in the project is to involve more than two users in the exchanging process. As a solution, considering the price ranges of the products and the product demands of the product owners, paths have found for each product.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 34,
+        "keywords": ["Requirement Matching System","E-commerce"]
+    },
+    {
+        "project_name": "Pet Adoption Web Application",
+        "students": [
+            "Elif Cansu TOSUN",
+            "Salih Kerem HARMAN",
+            "Doğukan Berat KARATAŞ"
+        ],
+        "supervisor": [
+            "Ahmet Burak Can"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=xAUylBynmlA",
+        "abstract": "The pets are undoubtedly an important part of our lives. Many of us are in search of such a friend to love and cherish. At the same time, those who want to find them a good home are also worried that they will be taken good care of. This project addresses the problem that there is no safe and consistent place that the pets can be adopted into long-lasting homes by helping people to find their desired pet friends. This platform will work as both a “Adoption Platform” that does not allow any purchase of our good friends and a place that shelters which are trying to find good homes for pets and are in need of goods to take care of them can request donations from those who are willing to donate.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 35,
+        "keywords": ["Pet Adoption","Web Application", "Donation" ]
+    },
+    {
+        "project_name": "AprilTag Tracking System",
+        "students": [
+            "Uğurcan ÇİFTÇİ",
+            "Gökalp YANIK",
+            "Hatice ACAR"
+        ],
+        "supervisor": [
+            "Harun ARTUNER"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=axXKcxV67Ac&rel=0",
+        "abstract": "AprilTag is a new technology used today in companies that hold large quantities of materials and do not use manpower to group goods. Such companies often use AprilTag tracking systems. As a team, we have taken this one step further and aimed to develop a system that can follow AprilTags not only as much as the camera sees, but at wider angles. To do this, we moved the camera physically with the help of servo motors, so that it can follow AprilTag at wider angles in cheap costs. We used the OpenMV camera and the Python programming language. In this paper, we will talk to you about AprilTag technology, OpenMV hardware, how we developed our project and the challenges we come across.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 36,
+        "keywords": ["Tracking System","Robotics","Rotating Camera"]
+    },
+    {
+        "project_name": "Unsupervised Anomaly Detection in Time Series Data",
+        "students": [
+            "Burak Emre ÖZER",
+            "Didem YANIKTEPE"
+        ],
+        "supervisor": [
+            "Adnan ÖZSOY"
+        ],
+        "youtube_link": "https://youtu.be/Gd9MEq8eHac",
+        "abstract": "Anomaly detection has become a fundamental component of the time series dataset. Anomalies are patterns in data that do not conform to a well-defined notion of normal behavior. The problem of finding these patterns is referred to as anomaly detection. Anomaly detection provides us to respond to emergencies and obtain alarm systems in a wide range of application areas such as security, economy, industry. Detecting anomalies in data provided through a system is often based on approaches that use unsupervised machine learning algorithms that require the training of large and unlabeled data sets. An alternative supervised learning method can be time-consuming and even very expensive, as such large-scale data sets will require collection and labeling. Therefore, anomaly detection has been a major challenge for researchers and practitioners. In our undergraduate project, we have developed a prototype machine learning web application that uses unsupervised learning and scalable machine learning algorithms that can analyze time-series data and detect anomalies. Through this web application, we provide data visualization services, data monitoring, and alarm service to the user after the data stream to the system.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 37,
+    "keywords": ["Anomaly Detection","Time Series Data","Unsupervised Learning", "Machine Learning","Deep Learning"]
+    },
+    {
+        "project_name": "HUCOIN",
+        "students": [
+            "Bilge Çimen",
+            "Batuhan Mete",
+            "Gökberk Şahin"
+        ],
+        "supervisor": [
+            "Adnan ÖZSOY"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=NBFoaHp2HS8",
+        "abstract": "Blockchains have diﬀerent issues and HUCOIN aims to solve some of them. One of the most common issues among blockchains is empty blocks. Empty blocks are wasting resources of miners. One of the biggest arguments against blockchains is how much resources they use to keep to system safe and running. We solve the problem by implementing some mechanism that prevents empty block mining and rejects the mined empty blocks in the chain. Another issue of blockchains that has smart contracts is they are hard to use. To interact with a smart contract one must have a wallet and enough balance to pay the gas to interaction with the smart contract. We solve this problem by introducing a new concept called payer. We allow all kinds of transactions to be able to paid by someone else. We also developed a web app to make smart contraction easy. The web app allows people to interact with a smart contract with just one click even if they don’t have any balance to pay the gas price. They can pay for the gas in real currency. All of them are possible because we implemented the payer system. The payer system is very secure because we implemented a double sign algorithm. The double sign algorithm is as secure as the normal signing one. HUCOIN provides a secure, eﬃcient, flexible and easy to use blockchain solution.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 38,
+        "keywords": ["Blockchain","Smart Contracts","Payer System"]
+    },
+    {
+        "project_name": "Geospatial Big Data Platform",
+        "students": [
+            "Burak Karademir",
+            "Yonas Yiheyis Amdeberhan"
+        ],
+        "supervisor": [
+            "Ebru Akçapınar Sezer"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=2pMjxlFXDm4",
+        "abstract": "Geospatial big data is a mass of spatial data, actually taking one of the biggest shares of big data, currently available in huge amounts. The presence of such surplus data, although a big advantage, can complicate the analysis process and thus poses a great challenge in making sense of it all and putting in to use. In this project, we address the lack of a highly interactive, comprehensive big data visualization tool and its negative effects on the analysis of the data. Regarding this problem, we propose a solution model in the form of a visualization tool specifically for Geospatial big data that is capable of resolving the incomprehensibility issue present in existing tools. Our project makes use of database systems like PostgreSQL and Geomesa to deal with the collected data along with map drawing tools like KeplerGL and, in the long run, Mapbox for its visualization functionalities.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 39,
+        "keywords": ["Geospatial Big Data","Big Data Management","Machine Learning"]
+    },
+    {
+        "project_name": "SCALABLE WEB APPLICATION",
+        "students": [
+            "Nursena Uzar",
+            "Taha Sevim",
+            "Muhammet Selçuk Güvel"
+        ],
+        "supervisor": [
+            "Adnan Özsoy"
+        ],
+        "youtube_link": "https://youtu.be/mztg2_7W0QQ",
+        "abstract": "Scalability is an attribute and a characteristic of systems which describes the ability of the system to grow and manage increased demand of the systems. The scalability problems in web applications shows up more specifically in recent years since the number of users and as a result, number of requests have increased considerably. The big companies deal with this problem using various technologies and techniques. In this project, we used microservice architecture, containerization technologies and relational, non-relational DBMS’ to create a scalable but also highly available course registration system.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 40,
+        "keywords": ["Scalability","Web Application","Microservice Architecture","Containerization" ]
+    },
+    {
+        "project_name": "Classification of Complex Networks Using Structural Analysis of Random Graph Models",
+        "students": [
+            "Ali Baran TAŞDEMİR",
+            "Barkın ATASAY"
+        ],
+        "supervisor": [
+            "Lale ÖZKAHYA"
+        ],
+        "youtube_link": "https://youtu.be/-mJzDGYro7c",
+        "abstract": "Nowadays, we use networks to represent data in lots of areas like social relationships, brain activities, molecular bonds, and hyperlinks. Our study mainly focuses on network analysis which is a very popular topic in these days. All graphs have distinguishable features that specify their characteristics. By analyzing these features and combining them with machine learning techniques, we achieved a classiﬁer that enables us to ﬁnd the most suitable algorithm for achieving the most similar synthetic graph to real-world graph. We approached to this problem in 3 steps. Firstly, we extracted the features of the graph we work on then we obtained real-world networks from http://networkrepository.com/. Secondly, we produced random graphs with chosen random graph models to use as data. At the last step, we trained a machine learning model to classify random graph algorithms and we use that in order to predict the model which is used to generate real network. The result gives us the best random graph algorithm to create a synthetic graph which is the most similar to complex real world graph.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 41,
+        "keywords": ["Complex Networks","Structural Analysis","Random Graph Models","Machine Learning"]
+    },
+    {
+        "project_name": "Guidance Drone for The Visually Impaired People",
+        "students": [
+            "Furkan Çağlayan",
+            "Ali Yunus Emre Özköse",
+            "Enes Furkan Çiğdem"
+        ],
+        "supervisor": [
+            "Aykut Erdem",
+            "Erkut Erdem"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=FcjNQv5NOts",
+        "abstract": "Visual impairment, including blindness, is a historical problem for us as much as the existence of humanity. Although the most used solution is blindness stick nowadays, it is an active research area where the question is how a visually impaired person should be guided for daily actions. With the growth of technology, a lot of solutions are proposed such as smart glasses, smart blindness sticks or wearable devices for guidance. On the other hand, none of these approaches are designed in the manner of full independence. Some of them have cable connection between device and person or some of them has no physical connections with lower efficiency and system accuracy. We propose a system that guide a person with the help of artificial intelligence. We believe that an unmanned aerial vehicle is able to provide full independence to a visually impaired person during his/her daily routines and actions. The proposed system benefit from depth estimation method and object detection method for object awareness to guide a person locally where at the same time the system can provide a global sight for ​ We use deep learning methods for guidance and computer vision techniques for navigation. Experiments demonstrate that the system has capability of guiding a person and has a valuable potential for industry with some improvements.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 42,
+        "keywords": ["Guidance Drone","Visually Impaired People","Deep Learning","AI","Computer Vision"]
+    },
+    {
+        "project_name": "",
+        "students": [
+        ],
+        "supervisor": [
+        ],
+        "youtube_link": "",
+        "abstract": "",
+        "report_link": "",
+        "project_term": "",
+        "id": 43,
+        "keywords": []
+    },
+    {
+        "project_name": "Tomayto Tomahto",
+        "students": [
+            "Kutay Barçin",
+            "Defne Tunçer"
+        ],
+        "supervisor": [
+            "Gönenç Ercan"
+        ],
+        "youtube_link": "https://youtu.be/tlrknc6Zf6I",
+        "abstract": "Globalization across the entire world affects the cultures and populations, while distances between nations get shorter and shorter, language differences still define the borders. In today’s world, millions of people are trying to learn new languages every day through new and developed language learning tools. When learning a new language, the last objective we focus on is how we pronounce the words, and even if a language is well known, mispronunciation often leads to miscommunication. The goal of this project is to develop a pronunciation coach that helps people to improve their speaking skills by providing feedback and correcting their pronunciation mistakes. In order to do this, we applied various techniques based on machine learning on the dataset we created by using text-to-speech services, and we end up with a model that uses support vector machines (SVM) which can detect mispronunciations made by native Turkish speaker from native American-English speakers with an F1-Score of 93.56% as our highest on a test sample made of real voice recordings.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 44,
+        "keywords": ["Pronunciation Coach","Machine Learning","AI","Pronunciation Mistakes"]
+    },
+    {
+        "project_name": "Medication Tracker",
+        "students": [
+            "Rıdvan İSANÇ",
+            "Kemal CANDAN"
+        ],
+        "supervisor": [
+            "Fuat AKAL"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=pyxbYzpWPzg&feature=youtu.be",
+        "abstract": "In this project, we enable users to control their drug use. In doing so, we take into account the user's primary requests. Users are adding medicines to use first. Then they add their usage times. The application also sends notifications to the user when the time comes. The user remembers that he should take the medicine. In this way, we ensure that they receive their medications in time. You can click the button I took the drug. Or postpone the notification again. In this way, we provide reminders according to possible delays. We also take into account drug interactions. We alert the user to possible side effects or harmful interactions. In this way, the user is informed. At this point, he can consult his doctors again and take precautions against this. Sending notifications to the user at such important points makes the purpose of our application spread over a wide area. We can say that the added drugs are taken from a real database in accordance with the medical literature. In this way, we have used the correct information of the drugs used.",
+        "report_link": "",
+        "project_term": "2019-2020",
+        "id": 45,
+        "keywords": ["Medication Tracker","Mobile Application","Drug Interactions"]
+    },
+    {
+        "project_name": "Lesion Meter",
+        "students": [
+            "Osman Gazi YILDIRIM",
+            "Talha ARICAN"
+        ],
+        "supervisor": [
+            "Fuat Akal"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=l3-WiCzGTeY",
+        "website": "https://b21827057.github.io/Lesion_meter/",
+        "abstract": "The application we developed is designed as a tool that doctors can use to detect, measure and monitor lesions in their patients. The search for innovative solutions that facilitate early diagnosis and follow-up processes in the field of health continues. Accurate measurement and monitoring of lesions can contribute to the early diagnosis and treatment of serious health problems such as skin cancer. However, traditional methods of tracking lesions can be challenging and provide low accuracy rates. Therefore, there is a need to develop a more reliable, effective and user-friendly solution. Our mobile application, developed with Flutter, serves as a tool for users to measure and monitor the size of lesions. The app allows users to take pictures of the lesion and take measurements. The size of the lesion is calculated and displayed using an integrated measurement within the app. These images are stored on a server. Recording lesions allows doctors to monitor the size of the lesion and monitor changes over time. The mobile application we have developed offers many advantages by facilitating accurate measurement and follow-up of lesions. It offers the opportunity to follow the change in the lesion over time. First, it can help streamline the early detection process, thereby aiding early detection of serious diseases such as skin cancer. By monitoring changes in the size of the lesion, doctors can apply the necessary solutions. The developed application has potential for future directions and enhancements. First, additional features and functionality can be incorporated into the application to enable more comprehensive analysis of lesions. For example, by analyzing indicators such as color changes and symmetry, it can be focused on providing users with relevant information. Secondly, the integration of machine learning algorithms within the application can be considered. This can provide more precise analysis of lesions and increase accuracy. In addition, working in data collection and analysis processes can create a larger database. This database can contribute to related research and studies in the field of skin health. The developed mobile lesion measurement application contributes to the early diagnosis processes by enabling doctors to measure and monitor lesion sizes. The app encourages user friendliness through its intuitive interface and ease of use, allowing doctors to keep track of patients&#39; health status. The application&#39;s openness to future studies and improvements can enable more comprehensive analysis and higher accuracy rates. This represents an important step towards delivering advanced healthcare for skin health.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 46,
+        "keywords": ["Lesion Meter","Mobile Application","Skin Health"]
+    },
+    {
+        "project_name": "Learn To Race",
+        "students": [
+            "İlker Emre KOÇ",
+            "Selçuk YILMAZ",
+            "Buğrahan HALICI",
+            "İrem Atak"
+        ],
+        "supervisor": [
+            "Özgür ERKENT"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=JyRDH5f2P_8",
+        "website": "https://learntorace.github.io/",
+        "abstract": "Automotive racing, whether physical or virtual, is a complex and multifaceted field where split-second decisions could mean the difference between winning, losing or crashing. Such split-second decision making is also a facet of cognition that most deep learning based artificial intelligence models of today have a hard time thanks to usually excessive computations and data necessary for training them and even using them. In today’s world, the advent of self-driving cars is expected to be a great step forward regarding both technology and the livelihood of all humanity. But one of the things that most self-driving car technologies today may lack is the minuscule decision times that becomes realized in high-speed and tight turn events create, not to mention their ineffectiveness in more general racing settings. For such possible use cases, further, more focused research is needed, and that is where Automatic Racing shows itself as being a promising possibility. In the normal, manually controlled racing industry we have today, racers are to be trained in both body and mind extensively to get the slightest competitive advantages. The traditional methods of improving racing performance involve manual training, driver experience, and intuitive decision-making. However, the advent of machine learning and artificial intelligence presents opportunities to revolutionize racing through automated and self-learning systems. The problem at hand is that, despite the potential benefits, training an AI system to effectively participate in a racing competition remains challenging due to the high complexity and dynamism of the environment. The AI needs to navigate around the track, avoid obstacles, and strategies to outperform competitors. We propose using reinforcement learning, a type of machine learning where an agent learns how to behave in an environment by performing certain actions and observing the results or rewards. We aim to develop an RL model that learns to race by itself, starting from no knowledge of racing and improving over time through trial and error. We applied a model-free reinforcement learning algorithm called Proximal Policy Optimization (PPO), which is robust and efficient in handling complex tasks like this. We trained our model in a simulated racing environment, with the track and external forces set to mimic real-world conditions. The model receives rewards for reaching checkpoints, maintaining high speed, and minimizing crashes. After several training iterations with different step per update counts, the RL model showed small improvements in its racing performance. It learned to navigate the track more efficiently and make strategic decisions like when to slow down. The model was able to complete laps faster than when it started, suggesting that it had indeed learned valuable 3 racing strategies. However, the model still struggled with safety infractions like getting out of the road or excessive slowness in turns. The main advantage this project provided was the addition of PPO to a simulator driven autonomous racing framework called Learn to Race and a Variation Auto Encoder implementation for its vision encoding tasks. Future project researchers could use this project as a reference for the implementation of different and more advanced models into the same framework or similar OpenAI’s Gym based frameworks. Thus, opening the gates for faster and more comprehensive research into both Reinforcement Learning and Autonomous Racing. This project can potentially improve the automated racing research field by being an example of proper implementation of different RL methods in a fully simulated racing framework, improving performance by further experimentation and training time. In the long run, it could also contribute to other areas such as autonomous vehicle navigation and traffic management. Moreover, it serves as a case study for how reinforcement learning can tackle complex, real-world tasks. There’s still room for improvement and further research. Future work could focus on incorporating more advanced RL algorithms, other Machine Learning (ML) methods like Transfer Learning or Imitation Learning or hybrid approaches that use Rule-Based navigation, improving the realism of the training environment, working with different reward mechanisms, or even transferring the learned policies to real-world vehicles. Additionally, developing an understanding of how the model makes decisions could provide insights into effective racing strategies and even contribute to safer driving practices in general.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 47,
+        "keywords": ["Reinforcement Learning","Automatic Racing","Machine Learning","AI","Deep Learning"]
+    },
+    {
+        "project_name": "A Study of NFT Implementation in a GameFi Project",
+        "students": [
+            "Ahmet Dursun Avcı",
+            "Aleyna Alper",
+            "Alper Tuğşad Meydan",
+            "Taylan Özdoğan"
+        ],
+        "supervisor": [
+            "Adnan ÖZSOY"
+        ],
+        "website": "https://discovershelltox.vercel.app/",
+        "youtube_link": "https://www.youtube.com/watch?v=af1ZCJLDaSk",
+        "abstract": "In this project, a Pixel art action game that we called 'Pixereum' focused on GameFi was developed and a website was created for this game that includes NFT minting and marketplace functions. GameFi is a concept that connects the gaming world with a financial ecosystem. The aim of this project is to use blockchain technology on gaming by creating a platform that allows users to truly own their assets, trade them or earn money while playing the game. In the game part of the project, a blockchain-based game was developed in which the user will log in with a MetaMask wallet or the user can play the game as a guest, without logging in with the wallet. This game is in the action/war genre and the game is designed in pixel art. The user who plays the game chooses the unique character he/she wants and fights with the enemies in the game with this character. The unique characters in the game will be NFT and if the user owns that NFT in their wallet he/she can play the character in the game. In the game, the user is given 10 minutes of time, during which he must defeat all the enemies on different maps. In addition, NFTs are created to be specific to the selected character, allowing the user to use them as they wish. The owned NFTs can be put up for sale at the request of the user on ImmutableX Marketplace, and the user will be able to earn money on these NFTs. The general purpose of our website, in the current process, is to introduce our game project and also our system that provides NFT formation. This project shows game developers a new system model, while giving users the opportunity to own and trade unique digital assets. It also promotes the growth of NFT-based economies and allows players to truly own their game assets.Future directions include improving the website in line with user feedback and adding new features. In addition, it is planned to carry out marketing and promotional activities so that the project can reach a wider user base.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 48,
+        "keywords": ["NFT","GameFi","Blockchain","Game Development"]
+    },
+    {
+        "project_name": "A Labeling, Learning and Visualization Tool for Brain Imagery",
+        "students": [
+            "Desmin ALPASLAN",
+            "Vedat BADAY"
+        ],
+        "supervisor": [
+            "Erkut Erdem"
+        ],
+        "youtube_link": "https://youtu.be/NM_hn08p85Q",
+        "website": "https://www.vedat.me/design-project/",
+        "abstract": "The project presented above aims to ease the process of preparation for brain surgery for brain surgeons. Currently, the process involves training personnel to label the parts of the brain on a 3D model constructed from brain Magnetic Resonance Imaging (MRI) images. However, this process is time-consuming, taking 1-2 months to learn and still requiring additional corrections. The project proposes an end-to-end autonomous approach using deep learning models to segment brain parts from MRI images and construct a 3D model. The final model will be compatible with Virtual Reality (VR) tools, allowing surgeons to investigate the patient's brain in a VR environment. We aim to minimize the time required for personnel training, improve segmentation accuracy, and provide better inspection capabilities using VR tools. Our project seeks to address the limitations of the current process by automating the segmentation and model construction steps and enhancing visualization using VR/AR/MR technologies. By constructing a 3D model of the brain, compatible with virtual reality tools, surgeons can explore and visualize the patient's brain in a virtual environment. Our project's goals include improving segmentation accuracy, enhancing visualization capabilities, and ultimately improving the success rate of brain surgeries.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 49,
+        "keywords": ["Brain Imagery","Deep Learning","VR","AR","MR"]
+    },
+    {
+        "project_name": "SEQUENCE REGION SPECIFIC PREDICTION OF PROTEIN FUNCTIONS",
+        "students": [
+            "Ender SARIBAY",
+            "Sevinç EKİN",
+            "Büşra ZİLE"
+        ],
+        "supervisor": [
+            "Tunca DOĞAN"
+        ],
+        "youtube_link": "https://youtu.be/ljIh_FpiOZg",
+        "website": "https://proteinfunctionprediction.com/",
+        "abstract": "Proteins have essential roles in all organisms since they perform all the functions carried out in a body of an organism. Therefore, knowing the functions carried out by proteins are essential to understanding biological organisms and to enabling faster research for drug development against diseases. For annotating the functions of proteins, gene ontology (GO) terms are widely used. GO terms are subject to a directed acyclic graph data structure where there exist parent-child relationships among them. This means that if a protein is associated with a GO term, the same protein is also associated with all parents of the GO term. The problem of protein function prediction can be approached as in the case of NLP (natural language processing) problems, where the input language is the language of proteins consisting of letters, each uniquely corresponding to a particular amino acid. For purposes of this research, the target language consists of GO terms that describe the functions of proteins. While each amino acid letter corresponds to a token of the input (source) language, each GO term word, e.g., GO:0008150, corresponds to a token of the output (target) language. Viewing the problem from this point of view enables state-of-the-art machine learning and deep learning techniques to be used for solving the problem of protein function prediction. While proteins may have many functions associated with them, the functions they carry out are usually due to some region of them, rather than the whole protein sequence. The research existing in the literature usually focuses on predicting protein functions at protein level, meaning that the GO term predictions are predicted to be associated with the whole protein, lacking the information regarding which positions of the protein sequence are responsible for the predicted function. The aim of this research is to perform protein function predictions at both protein level and amino acid level. Predicting protein functions at amino acid level makes the regional prediction of functions of proteins possible.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 50,
+        "keywords": ["Protein Functions","Deep Learning","Machine Learning","Protein Sequence","Bioinformatics"]
+    },
+    {
+        "project_name": "Prediction of Protein Metal Binding Sites with Transformers",
+        "students": [
+            "Furkan Kurt",
+            "Berfin Kayar",
+            "Ömer Kaan Vural"
+        ],
+        "supervisor": [
+            "Tunca DOGAN"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=x3THorPfpvA&feature=youtu.be",
+        "website": "https://orange-grass-0e4ee8710.3.azurestaticapps.net/",
+        "abstract": "Our project aims to predict metal binding positions in unannotated proteins, considering the crucial role of metal ion interactions in biological systems. Accurate prediction of these binding sites is essential for understanding protein structure and function, as well as for drug design and disease research. We employed deep neural networks, specifically the Transformer architecture, known for its effectiveness in sequence-to-sequence transformations. Amino acid sequences were encoded as 1024-dimensional embeddings using a Prot-T5 model. Each amino acid was assigned a label indicating the metal class or null token for no binding. The decoder was trained to predict metal binding positions based on the encoded protein sequence embeddings. Despite challenges and limitations, we have trained and tested the encoder and decoder components. Future directions include implementing the missing inference part, refining the model's performance through hyperparameter tuning and architectural modifications, and exploring alternative deep learning architectures for comparison.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 51,
+        "keywords": ["Protein Metal Binding Sites","Deep Learning","Machine Learning","Protein Sequence","Bioinformatics"]
+    },
+    {
+        "project_name": "Innovative E-mail Client",
+        "students": [
+            "Ege Akat",
+            "Umur Kılıç"
+        ],
+        "supervisor": [
+            "Burkay Genç"
+        ],
+        "youtube_link": "https://youtu.be/YUZbsUzvvPU",
+        "website": "https://egeakat.github.io/innovative-email-client-demo/",
+        "abstract": "This project aims to develop a frontend application using React.js and a stateless backend API built with Express.js, integrating with the Gmail API. The objective is to create a user-friendly UI that allows users to send requests to the backend, which in turn interacts with the Gmail API to retrieve data and perform operations on the user's Gmail account. In today's digital world, email communication plays a crucial role in both personal and professional contexts. However, accessing and managing emails efficiently can be a challenging task. This project addresses the problem of streamlining email management by developing a web application that leverages the Gmail API to provide an intuitive user experience. The proposed solution is to build a frontend application using React.js, a powerful and widely adopted JavaScript library for building user interfaces. React.js provides a component-based architecture that promotes reusability and simplifies UI development. On the backend, a stateless API is implemented using Node.js, a popular server-side JavaScript runtime. This API serves as an intermediary between the frontend and the Gmail API, handling requests and responses. To interact with the Gmail API, the project implements OAuth 2.0 authentication, allowing users to grant access to their Gmail accounts securely. This authentication flow ensures that the application adheres to security best practices. Once authenticated, users can send requests from the frontend to the backend API, which uses the Gmail API to perform operations such as retrieving inbox messages, sending emails, and managing labels. Throughout the development process, various methods were applied. The React.js frontend utilized components and libraries to create an intuitive user interface. The backend API leveraged Node.js frameworks and packages to handle HTTP requests, authentication, and interaction with the Gmail API. The results of the project demonstrate a functional web application that successfully integrates with the Gmail API. Users can interact with their Gmail accounts seamlessly through the frontend UI. The application allows sending emails, retrieving messages, and managing labels, providing a convenient way to handle email communication within a single interface. 2 The expected impact of this project is to enhance email management efficiency, reducing the time and effort spent on accessing and organizing emails. By centralizing email operations into a streamlined UI, users can improve productivity and focus on more critical tasks. Future directions for this project include expanding the functionality to support additional Gmail API features, such as attachments handling and advanced search capabilities. Additionally, integrating other email service providers or implementing additional APIs for enhanced communication management could be explored. Continuous improvement, bug fixes, and security updates will also be crucial to ensure the project's longevity and reliability. In conclusion, this project successfully developed a frontend application using React.js and a RESTful backend API with Node.js, integrating with the Gmail API. The user-friendly UI and efficient interaction with the Gmail API offer a solution for streamlining email management, contributing to improved productivity and user experience.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 52,
+        "keywords": ["Email Client","React.js","Gmail API","Node.js","OAuth 2.0"]
+    },
+    {
+        "project_name": "Detecting and Correcting the Parts That Trigger Photosensitive Epilepsy on Video with Image Processing Methods",
+        "students": [
+            "Ahmet Yasir Kilic",
+            "Mustafa Can Genc",
+            "Ali Kural"
+        ],
+        "supervisor": [],
+        "youtube_link": "Ahmet Yasir Kilic   Mustafa Can Genc   Ali Kural ",
+        "website": "https://samfatu.github.io/pse-web/",
+        "abstract": "This article explores the impact of photosensitive epilepsy (PSE), a neurological disorder triggered by flashing patterns, on individuals of all ages. With an estimated prevalence of millions affected by PSE, including approximately 3 in ten thousand individuals [1] , understanding and avoiding PSE triggers is crucial. Guidelines from organizations such as Ofcom, ITU, and W3C provide valuable insights, particularly W3C's focus on internet content. By employing W3C guidelines [2] and leveraging an open-source code [3] , we developed specialized algorithms to identify PSE-triggering sequences in visual content. Comparative analysis against the Photosensitive Epilepsy Analysis Tool (PEAT) [4] validated the accuracy of our results. Ensuring that the output of the correction process does not trigger PSE and preserves the watchability of visual content is our primary objective. To enhance understanding, PSE-triggering flash sequences were categorized into three types: general flash, red flash, and combined flashes. Tailored algorithms were developed for each category, optimized to achieve optimal outcomes. The performance evaluation involved comparing the number of frames with detected flash sequences in the original video to those in the corrected video, resulting in a correction percentage. Additionally, we conducted an 18-video survey [5] to gauge visibility subjectivity. Participants evaluated the original and corrected versions of each video side by side, providing ratings on a scale from one to five. This comprehensive study contributes to the advancement of PSE detection and correction techniques, aiming to enhance accessibility and safety for individuals susceptible to PSE.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 53,
+        "keywords": ["Photosensitive Epilepsy","Image Processing","Video Processing","Accessibility"]
+    },
+    {
+        "project_name": "Class Attendance With Face Recognition",
+        "students": [
+            "Pelin FİLDİŞ",
+            "Abdulkadir ALACA",
+            "Enes Taha ELMACİ"
+        ],
+        "supervisor": [
+            "Nazlı İkizler Cinbiş"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=3E_vn7_u5VI",
+        "website": "https://pfildis.github.io/attendance.github.io/",
+        "abstract": "Our project aims to address the outdated and time-consuming process of manual attendance checks in educational settings by leveraging the advancements in technology. Despite numerous aspects of our lives being refreshed and updated, attendance checks have remained largely unchanged, relying on paper-based lists and individual sign-ins. This traditional approach not only disrupts the focus of both students and instructors but also consumes a significant portion of valuable class time. As computer engineering students, we recognized the need for a more efficient and streamlined attendance management system. Our proposed solution involves the development of an automated attendance system that utilizes mobile phone cameras and artificial intelligence with face detection and recognition techniques. By capturing snapshot during class and employing face detection and recognition algorithms, our system eliminates the need for manual sign-ins, paper lists, potential errors and the associated disruptions. We have made our data set from our friends and some celebrities. We obtain their photos individually first. After that, we obtain group photos that include our friends and celebrities that we select. Throughout the project, we encountered various limitations and challenges. However, despite these constraints, our solution showcases promising results. By automating the attendance process, we anticipate several significant benefits. The system reduces disruptions during lectures, eliminates the need for physical signatures, and enhances overall classroom focus. Additionally, the recorded snapshots serve as tangible evidence in cases of attendance disputes or confusion. In conclusion, this project represents an innovative and practical approach to attendance management in educational environments. By harnessing the power of artificial intelligence and computer vision, we have developed an efficient and reliable system that offers substantial advantages over traditional methods. The potential future directions for this project include scalability, further refinement of the neural network model, and exploration of additional applications beyond attendance management. We developed this project with the intention of implementing it in real life in the future. Our aim was to assist teachers and students in making their school lives easier. Once it is put into use in real life, the plan is to obtain the necessary permissions and access BİLSİS to collect students' photos and automate the process of creating classes for the appropriate courses each semester.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 54,
+        "keywords": ["Face Recognition","Attendance Management","Computer Vision","Artificial Intelligence"]
+    },
+    {
+        "project_name": "Virtual Try-on Tool",
+        "students": [
+            "Özgün Akyüz",
+            "Batuhan Ayhan"
+        ],
+        "supervisor": [
+            "Erkut Erdem"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=8FzmO8ojNzw",
+        "website": "",
+        "abstract": "We built a visual try-on application. We want to take a photo and text input from the user and manipulate the given image with the text input. For example, the user will upload an image and in this image, a lady wears a red t-shirt. With the given text input “lady wears a green tshirt, we edit the user’s image and provide the output as the same lady wears the green shirt.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 55,
+        "keywords": ["Virtual Try-on","Image Manipulation","Computer Vision","Artificial Intelligence"]
+    },
+    {
+        "project_name": "Extracting Miles and Kilometers From Odometer Pictures",
+        "students": [
+            "Ali Aykut ARIK",
+            "Melih AKSOY",
+            "Mert DOĞRAMACI"
+        ],
+        "supervisor": [
+            "Ahmet Selman BOZKIR"
+        ],
+        "youtube_link": "",
+        "website": "https://mertdogramaci.github.io/odoscan_poster.github.io/",
+        "abstract": "Our commitment lies in developing an application that uses an object detection model that was trained by us to revolutionize the collection of odometer readings for insurance providers.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 56,
+        "keywords": ["Odometer","Object Detection","Computer Vision","Artificial Intelligence"]
+    },
+    {
+        "project_name": "DEEP LEARNING BASED SHIP DETECTION FROM MULTI-MODAL SATELLITE IMAGES",
+        "students": [
+            "MEHMET ALPEREN ÖZÇELIK",
+            "YUNUS ALPER BAĞCILAR"
+        ],
+        "supervisor": [
+            "Ali Seydi Keçeli"
+        ],
+        "youtube_link": "",
+        "abstract": "Ship detection from satellite images holds great significance in various application domains. This study presents a multimodal deep learning model for ship detection in synthetic aperture radar (SAR) and optical imagery. To achieve this goal, a Few-shot object detection model is designed by leveraging the meta-learning approach to combine SAR and optical images in a multi-modal fashion, with the adoption of Meta R-CNN (meta region-based convolutional neural network) as the meta-learning framework. Finally, the sliced inference is employed to achieve faster and more efficient results. In this study, we developed a multi-modal deep learning model for ship detection in synthetic aperture radar (SAR) and optical images. To utilize the distinct formats of these two images, we found it appropriate to use a Few-shot detection model. The Few-shot model, consisting of two stages, incorporates a meta-learning model as it provides more effective learning with limited data. Ship detection holds great importance in various applications such as maritime security, trade route analysis, and environmental monitoring. The multi-modal utilization of SAR and optical images has the potential to enhance ship detection performance. SAR images provide high-resolution imaging that is unaffected by weather conditions. On the other hand, optical images allow for more detailed analysis of color, shape, and structural features. The combination of these two different data modalities offers a richer feature space for ship detection, thereby increasing accuracy and reliability potential. Few-shot learning has emerged as an important strategy to improve the performance of deep learning models in limited data scenarios. In this study, we first conducted base training on a large dataset of optical images. Subsequently, we fine-tuned this base model with SAR images to prepare the model for multimodal Few-shot ship detection. In this step, we adopted a meta-learning approach using Meta R-CNN (meta region-based convolutional neural network) as it provides a better learning mechanism with fewer data instances. In the final stage, we applied the sliced inference method. Sliced inference is a technique that divides the model's outputs for processing, aiming to achieve faster and more efficient results. The results obtained in this study demonstrate the significant potential of multimodal deep learning and Few-shot learning techniques in ship detection using SAR and optical images.",
+        "website": "https://yalperb.pythonanywhere.com/",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 57,
+        "keywords": ["Ship Detection","Deep Learning","SAR","Optical Images","Few-shot Learning"]
+    },
+    {
+        "project_name": "Medication Tracker",
+        "students": [
+            "Miraç Erol",
+            "Macit Kaan Bayrak"
+        ],
+        "supervisor": [
+            "Fuat Akal"
+        ],
+        "youtube_link": "https://youtu.be/lslmIDwhT94",
+        "website": "https://medication-tracker.github.io/",
+        "abstract": "This project focused on the development of a medication-tracking application to address the problem of medication mismanagement among seniors and individuals with chronic conditions. The project aimed to improve medication adherence and promote better health outcomes by providing a user-friendly interface, timely reminders, and comprehensive tracking capabilities. The field of medication management for seniors and individuals with chronic illnesses was introduced, highlighting the prevalence of medication use and the challenges faced by users in staying on schedule. The problem statement emphasized the need for an intuitive and effective application that could overcome the complexities and limitations of existing solutions. To address this problem, the proposed solution was to develop a medication-tracking application that would provide a simple and understandable user experience. The application would allow users to input their medication information, including dosage, instructions, and usage frequency. Reminder notifications would be sent to users based on their preferences and medication schedules. The application would also offer features such as exporting medication usage reports, allowing user feedback and logging actions, and facilitating communication between users and their relatives or caregivers. The methodology followed in the project involved user registration and authentication, medication data input and processing, reminder notifications, user interaction and logging, exporting data, and the implementation of a companion system. Firebase Authentication was utilized for user registration and login, while Firebase Realtime Database was used for data storage. The application integrated the awesome notifications library for sending reminder notifications. User actions were logged and stored in the database for tracking purposes, and data export functionality was provided in PDF or CSV format. The results of the project demonstrated the successful implementation and functionality of the medication-tracking application. User feedback, usability testing, and performance evaluation indicated positive user experiences and effective medication management. The application proved to be a valuable tool in improving medication adherence and facilitating communication between users and their caregivers or healthcare professionals. The impact of the application included better health outcomes, reduced medication mismanagement, and enhanced patient- caregiver collaboration. Future directions for the project included refining the user interface, addressing minor bugs and issues, adding innovative features such as image uploading and multilingual support, and integrating machine learning algorithms for personalized medication reminders. The application has the potential to be used in real-life healthcare settings, deployed in healthcare facilities, or home healthcare environments. Additionally, the project's results and methodologies could be 3 published in relevant scientific journals or conferences, contributing to the field of medication management and inspiring further research and development efforts. In conclusion, the medication tracking application provided an effective solution to the problem of medication mismanagement among seniors and individuals with chronic conditions. The project successfully developed a user-friendly and intuitive application that addressed the complexities of medication management. The results, impact, and potential future directions of the project demonstrated its significance in improving medication adherence, promoting better health outcomes, and facilitating patient-caregiver collaboration in real-life healthcare settings.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 58,
+        "keywords": ["Medication Tracker","Healthcare","Mobile Application","User Interface"]
+    },
+    {
+        "project_name": "ML Interface Wizard",
+        "students": [
+            "Davut Kulaksız",
+            "Nikola Drljaca"
+        ],
+        "supervisor": [
+            "Fuat AKAL"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=MOyPrtplsdw",
+        "website": "https://davutkulaksiz.github.io/ml-interface/",
+        "abstract": "In short, the problem statement is as follows. During the creation of a data application based on a Machine Learning model, it may be necessary to write a front-end application for that model. When the underlying model changes, a new front-end should be generated based on model metrics and provided metadata. The application will generate a UI for any Machine Learning model. It will allow easier usage of the model, and an easier way to check its correctness as well as to provide additional testing data. Machine Learning as a field is fast-moving and is being quickly integrated into different types of applications. For these purposes, a quick and convenient way to test these models and collect more correctly labeled data in the process presents itself as a necessity. Furthermore, there is a need to involve more non-technical people in the process of collecting and evaluating data. There are many fields in which such models can prove useful, but input from industry professionals that might not necessarily be technically inclined is essential in creating an accurate product. Our approach to this problem involved the development of a full-stack application. We have chosen the Web as the platform for interaction with the system, as it is the most accessible to everyone. Given the complex nature of the application, it proved insufficient to just have a Web application, as for the more complex model functionality we needed a different environment. With that in mind, we have opted to move our business logic to a server application. In effect, the user can interact with our system using the Web application, provide the necessary files and interact with the model when the interface is generated. The two components of the system interact over HTTP requests through a RESTful API, using JSON-encoded information when and if necessary. Our goal was to reduce the cognitive overhead of usage as much as possible, but some parts were still deemed mandatory as user-provided information. One such detail, and a very crucial one, is the model configuration file. Based on this file, we can better understand how the model works and how to create an intuitive interface for the user. Even though the two systems are connected, the backend server application is standalone and can be used in such a way without the frontend, for those who are more technically inclined or need to consume data collected by this application. We have successfully developed an application that we consider valuable, although it caters to a specific audience and requires some user engagement to fully utilize its benefits. However, there is still a requirement for an individual who understands the training process of a specific model to efficiently generate the configuration file. By leveraging our REST interface, we offer sample demonstrations of such configuration files, and our internal testing has shown they can be created swiftly and effortlessly.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 59,
+        "keywords": ["Machine Learning","User Interface","Web Application","RESTful API"]
+    },
+    {
+        "project_name": "Comparison of Cryptographic Algorithms for IoT Devices",
+        "students": [
+            "Batuhan Görkem BENZER",
+            "Yıldırım Bayazıt AKYÜREK"
+        ],
+        "supervisor": [
+            "Suat ÖZDEMİR"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=ZhaGw3Y_Os4",
+        "website": "https://designproject2023.github.io/",
+        "abstract": "The importance of IoT devices in our interconnected world cannot be overstated. These devices play a crucial role in collecting and exchanging data, enabling smart systems and enhancing efficiency in various domains. However, due to their resource constraints and limited computing power, IoT devices are inherently more vulnerable to security threats, making data security a paramount concern. To ensure the integrity, confidentiality, and privacy of data transmitted and stored by IoT devices, the selection and implementation of robust security algorithms are of utmost importance. Cryptographic algorithms provide the necessary tools to safeguard data and communications in IoT environments. These algorithms enable encryption and decryption processes that protect sensitive information from unauthorized access and tampering. The performance evaluation of cryptographic algorithms is a key objective of our project. By assessing the performance metrics of these algorithms, such as execution time, memory usage, we aim to identify the most efficient solutions for resource-constrained IoT devices. This evaluation will enable us to strike a balance between data security and computational efficiency, ensuring that the chosen algorithms are both robust and suitable for the limitations of IoT devices. Ultimately, our project aims to contribute to the development of secure and efficient IoT systems.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 60,
+        "keywords": ["Cryptographic Algorithms","IoT Devices","Security","Performance Evaluation"]
+    },
+    {
+        "project_name": "Increasing The Success Rate Of Object Detection by Converting RGB Images To Thermal Images With Using Image-to-Image Translation Methods Powered by GANS",
+        "students": [
+            "Abdullah Atahan Türk",
+            "Yuşa Zorlu"
+        ],
+        "supervisor": [
+            "Hacer Yalım Keleş"
+        ],
+        "youtube_link": "https://www.youtube.com/watch?v=sl7GXZ3WvWg",
+        "website": "https://b21827943.github.io/",
+        "abstract": "With the development of computer vision, machine learning and artificial intelligence, object detection has developed and has become an important position today. Object detection with cameras is especially important in the defense industry and traffic. When we started our project, we set out to get better results in object detection. First of all, in our research on the internet, we realized that with thermal images, object detection can be done with a higher success rate than RGB images. To verify this, we conducted experiments on the LLVIP dataset, which includes 12025 image pairs of the same image pairs taken with the RGB and thermal camera with Yolo v7 in the first semester. We also wanted to further consolidate the results we will obtain by using the FLIR Thermal Dataset. In these experiments we conducted with Yolo v7, we clearly saw that object detection, especially human detection, in thermal images can be achieved with a better success rate than RGB images. On top of that, in the second semester, we aimed to obtain thermal images from RGB images by using various GAN implementations, and thus to enable more successful object detection. We decided to use pix2pix and CycleGan for this. Again, using the same LLVIP dataset, we obtained thermal images from RGB images. We did our pix2pix and CycleGan experiments using Google Colab, as we did not have machines with the necessary equipment. For this, we used the paid pro version of Colab, but in this way, we could not train our dataset exactly as it should be, since Colab gives a certain usage limit. Although people usually appear clearer in the thermal images we obtained, the generality of other objects was not completely clear. With the thermal images we obtained, we again carried out object detection experiments in Yolo v7 and although we did not achieve very good results, we obtained promising results. We have seen that with the necessary hardware, we can produce thermal images with higher object detection success than RGB images with a larger dataset and more epoch numbers.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 61,
+        "keywords": ["Object Detection","Image-to-Image Translation","GANs","Thermal Images"]
+    },
+    {
+        "project_name": "https://b21809831.github.io/",
+        "students": [
+            "Ömer Işıldak",
+            "Ayşe Şule Bakal"
+        ],
+        "supervisor": [
+            "Ebru Gökalp"
+        ],
+        "youtube_link": "",
+        "website": "https://b21809831.github.io/",
+        "abstract": "Abstract Our project proposes a structured way to browse through data analytic tools and ways to customize and optimize your search and results. We have followed the Crisp-DM1, Cross Industry Standard Process for Data Mining, phases to categorize products, and added subcategories and criteria to accurately portray and identify what is needed. All the products support a thumb picture, a link to their official website, a short description, and their type, price, and score which are all sortable. Our tag system allows users to perform multi-criteria decision making and the resulting list they get is ordered by the scores of products. Additionally, we provide an AHP tool for our users to hierarchically order the importance of the criteria to their needs. The resulting matrix of this method allows users to see the importance of each criterion in relation to another in combinations of 2 and ranks the proposed alternative products in order of the best fit. We believe this project has the potential to help individuals and companies to make better decisions that fit their problems, requirements, and their teams while saving them time and money both because of the shortened decision process and an averted scenario of bad or unfit decisions. In the future, this project could evolve to include even more types of products, criteria, and decision-making methods.",
+        "report_link": "",
+        "project_term": "2022-2023",
+        "id": 62,
+        "keywords": ["Data Analytics","Decision Making","AHP","Crisp-DM"]
+    },
+    {
+        "project_name": "Cosmos",
+        "students": [
+            "Muhammed Aydoğan",
+            "İsmet Okatar",
+            "Edib Hamza Arslan"
+        ],
+        "supervisor": [
+            "MURAT AYDOS"
+        ],
+        "youtube_link": "",
+        "website": "",
+        "abstract": "Our project is a social media application which uses machine learning and has in-app shopping features. Our goal is to connect people in the context of cosmetics in the form of an instagram app. This app will have Face Detection and Face Type Detection from an image and will implement machine learning methods. The project will have a backend with a database and a REST API in the background. And machine learning algorithms implemented inside the app.",
+        "report_link": "",
+        "project_term": "2020-2021",
+        "id": 63,
+        "keywords": ["Social Media","Machine Learning","Cosmetics","Face Detection","Face Type Detection"]
+    },
+    {
+        "project_name": "WEB PAGE COMPLEXITY STUDY",
+        "students": [
+            "Ece OMURTAY",
+            "Deniz Ece AKTAŞ",
+            "Ömer Bilal YAY"
+        ],
+        "supervisor": [
+            "MURAT AYDOS"
+        ],
+        "youtube_link": "",
+        "website": "",
+        "abstract": "Classification of the visual complexity level of web pages through CNN based learning methods. The visual appearance of web pages affects the way a user will interact with the web page contents. The layout which shapes the visual characteristics of overall appearance is composed of various visual components such as texts, images, form elements, and white spaces. Moreover, the placement and visual presentation of these components influence the perceived visual complexity. At this point, the literature suggests that the visual complexity of a web page impacts the cognitive load and effort of the users when they interact with web pages. This project investigates the use of convolution neural network-based deep learning methods for understanding the visual complexity level of the web pages. To do this, we are going to first of gather a base case by making a website and gathering user scores that provide an insight of how visually complex a website is from the screenshots we will provide. Afterwards we will sector the base case and make a database and then we will find the feature vectors of websites and optimize the vectors and finally we are planning to work with different machine learning methods to classify the level of complexity of web pages based on dimensionally reduced vectors.",
+        "report_link": "",
+        "project_term": "2020-2021",
+        "id": 64,
+        "keywords": ["Web Page Complexity","CNN","Deep Learning","Web Page Layout"]
+    },
+    {
+        "project_name": "Deep Embeddings for Web",
+        "students": [
+            "Atakan AYYILDIZ",
+            "Göktuğ CANDEMİR",
+            "Ege ÇINAR"
+        ],
+        "supervisor": [
+            "MURAT AYDOS",
+            "Ahmet Selman BOZKIR"
+        ],
+        "youtube_link": "",
+        "website": "",
+        "abstract": "This project will rank websites’ visual similarity through deep embeddings. Deep embeddings are representations of webpage screenshots by deep learning models such as convolutional neural networks. Siamese networks will be used to create a similarity scıre between web pages. 9000 web pages in 10 categories will be collected. Screenshots of the web pages will be captured by wkhtmltoimage in the data collection phase. Calculated similarity scores will be compared with the SWPS40 dataset. SWPS40 is a ground truth dataset to verify ranking results on web page similarity. The web page pairs in the dataset were scored by 312 different participants. ANR5 and ANR10 rankings will be used when comparing the calculated results with the SWPS40 dataset. Similarity rankings could be used to prevent website design plagiarism.",
+        "report_link": "",
+        "project_term": "2020-2021",
+        "id": 65,
+        "keywords": ["Deep Embeddings","Web Page Similarity","Siamese Networks","Web Page Layout"]
+    }
+]
