@@ -1,3 +1,5 @@
+import random
+
 from architecture import BertForSTS
 import torch
 from collections import defaultdict
@@ -19,8 +21,10 @@ def get_top_similars(target_embedding, other_embeddings):
         similarity = torch.nn.functional.cosine_similarity(target_embedding, embeddings, dim=0).item()
         similarity_scores.append((similarity, id))
     similarity_scores.sort(reverse=True)
-    top_similars = similarity_scores[:5]
-    return top_similars
+    #select random 5 from top 10
+    top_similars = similarity_scores[:10]
+    random_top_similars = random.sample(top_similars, 5)
+    return random_top_similars
 
 
 def get_embeddings(sentence):
