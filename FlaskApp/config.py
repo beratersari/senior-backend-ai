@@ -1,0 +1,5 @@
+DATABASE_NAME = "HacettepeSeniorProjectPage_Dummy"
+DATABASE_USER = "postgres"
+DATABASE_PASSWORD = "123"
+DATABASE_HOST = "localhost"
+DATABASE_PORT = "5432"
